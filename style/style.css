@@ -197,3 +197,56 @@ margin-bottom: 32px;
     color: red;
     
 }
+.tarek{
+   background: linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)),url("../assets/social-bg.png");
+   /* background-color: #6e6868;
+   background-blend-mode: overlay; */
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   width: 1932px;
+   height: 671px;
+   /* opacity: 0.2; */
+   margin-top: 50px;
+
+   text-align: center;
+  position: absolute;
+  
+ 
+
+}
+
+.textinfo{
+    width: 1320px;
+    height: 326px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+    margin-top:137px;
+}
+
+
+
+
+
+
+
+.textinfo {
+    margin: auto;
+}
+
+section.tarek {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+.textinfo {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
